@@ -1,0 +1,44 @@
+PDS24-2N > (agora não é mais BD24-2N)
+
+(nesta matéria)
+
+Atividade 1
+
+Passo a Passo:
+
+1 - Faça um retângulo grande;
+2 - Faça duas linhas paralelas verticais no base de cima do retângulo
+até um pouco acima do meio;
+3 - Repita o processo na base de baixo, de forma que as linhas de cima e 
+de baixo fiquem alinhadas, porem com um espaçamento entre elas;
+4 - No lado do retângulo, crie uma linha horizontal de forma que ela
+se conecte com uma das linhas criadas anteriormente, de forma a 
+criar um quadrado no local em que foi feita; 
+5 - Repita o processo de forma que cada linha criada nas bases se conecte 
+com uma linha ao lado e crie um quadrado em cada canto;
+
+
+
+
+
+
+
+
+
+
+
+6 - Colorir, de vermelho, a cruz que se criou no meio.
+
+
+
+
+LEIA TODA LINHA DE COMANDO ANTES DE FAZER
+
+1 - faça dois circulos pequenos com um espaçamento de uns 4 centimetros entre eles,
+2 - faça um circulo maior abaixo dos dois em que ele se encoste nos outros dois anteior
+3 - abaixo do circulo do comando numero 2, faça outro ciculo ainda maior, neste circulo faca um ciculo no seu interior
+4 - abaixo do circulo do comando numero 3, faca dois cirulos menores com uma distancia de uns 2 centimetros entre elas, estes dois circulos
+ devem encontar no comando de numero 3
+5 - no cirulo feito no comando de numero 3,faca dois circulos pequenos de cada lado, isso enconstando no circulo de comando 3
+6 - no circulo de comando numero 2, faça dois circulos pequenos no interior alinhados e um cirulo mais abaixo entre os doius circulos pequenas
+
