@@ -1,0 +1,25 @@
+Intellij Idea
+
+link: https://tech.pedrogalvao.com/dev/o-que-e-intellij-idea/
+
+Criador: Empresa JetBrains
+Data Criacão: 2001
+
+Preço: 
+Empresas - R$467,77 p/m;
+Individual - R$101,95 p/m;
+Estudantes, Professores e Instituições de Ensino - Grátis.
+
+Funcionalidades:
+ 
+Editor inteligente
+
+Refatoração de código
+
+Integração com frameworks
+
+Versionamento e controle de código
+
+Ferramentas de análise e inspeção
+
+Extensibilidade
