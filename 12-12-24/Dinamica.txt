@@ -12,14 +12,35 @@ Estudantes, Professores e Instituições de Ensino - Grátis.
 
 Funcionalidades:
  
-Editor inteligente
+Suporte de Multi Linguagens: Além de Java e Kotlin, 
+o IntelliJ IDEA suporta uma ampla gama de linguagens de programação, incluindo 
+JavaScript, TypeScript, SQL, Python e muitas outras, 
+com ferramentas específicas para cada uma delas.
 
-Refatoração de código
+Editor inteligente:
+O IntelliJ IDEA oferece um editor inteligente que compreende o código e 
+fornece sugestões contextuais,
+correções automáticas e até mesmo geração de código baseada em padrões.
 
-Integração com frameworks
+Refatoração de código:
+Facilita a reestruturação do código-fonte de forma segura, 
+permitindo que os desenvolvedores otimizem 
+e melhorem a estrutura do código com poucos cliques.
 
-Versionamento e controle de código
+Integração com frameworks:
+Possui integração nativa com diversos frameworks populares, como Spring,
+Hibernate, AngularJS, React e outros,
+simplificando o desenvolvimento de aplicações complexas.
 
-Ferramentas de análise e inspeção
+Ferramentas de análise e inspeção:
+Oferece ferramentas poderosas para análise estática de código, 
+detecção de erros potenciais, 
+inspeção de código e melhorias de desempenho.
 
-Extensibilidade
+Extensibilidade:
+Suporta uma vasta coleção de plugins que podem ser instalados para 
+estender ainda mais suas funcionalidades, 
+se adaptando às necessidades específicas de cada projeto e desenvolvedor.
+
+Por quê utilizar?
+
